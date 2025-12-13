@@ -1,15 +1,25 @@
-p 1{
-    width: 512px;
-}
-
-p 2{
-    width: 512px;
+body {
+   width: 512px;
     }
 
-div img {
-  background: url("/img/background.png") no-repeat;
-  background-size: cover;
-  background-size: 50% 50%;
-  background-size: 100px 40px;
-  background-size: contain;
+.titolo-principale {
+   text-align: center;
+
+   } 
+
+h1 {
+   text-align: center;
+
+}
+
+.card1 {
+   margin: 80px 50px;
+   background-size: cover;
+   border-radius: 60px;
+
+   }
+
+
+svg {
+  height: 10%;
 }
